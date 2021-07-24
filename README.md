@@ -10,10 +10,3 @@ Git的第一次测试
 
 Create a new branch dev
 
-<<<<<<< HEAD
-Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
-
->>>>>>> feature1
-
